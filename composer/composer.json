@@ -1,0 +1,12 @@
+{
+    "name": "lucas/composer",
+    "description": "testando",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Lucas Souza",
+            "email": "lsdo2011@gmail.com"
+        }
+    ],
+    "require": {}
+}
